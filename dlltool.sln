@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dlltool", "dlltool\dlltool.csproj", "{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release x64|Any CPU = Release x64|Any CPU
+		Release x64|x64 = Release x64|x64
+		Release x64|x86 = Release x64|x86
+		Release x86|Any CPU = Release x86|Any CPU
+		Release x86|x64 = Release x86|x64
+		Release x86|x86 = Release x86|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x64|Any CPU.ActiveCfg = Release x64|Any CPU
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x64|Any CPU.Build.0 = Release x64|Any CPU
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x64|x64.ActiveCfg = Release x64|x64
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x64|x64.Build.0 = Release x64|x64
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x64|x86.ActiveCfg = Release x64|x86
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x64|x86.Build.0 = Release x64|x86
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x86|Any CPU.ActiveCfg = Release x86|Any CPU
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x86|Any CPU.Build.0 = Release x86|Any CPU
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x86|x64.ActiveCfg = Release x86|x86
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x86|x64.Build.0 = Release x86|x86
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x86|x86.ActiveCfg = Release x86|x86
+		{9E1DFC62-42E1-4201-AFA5-C0593DFC20F9}.Release x86|x86.Build.0 = Release x86|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A53F6B4-ACD8-4E6B-B4F3-D30DDF1861AE}
+	EndGlobalSection
+EndGlobal
