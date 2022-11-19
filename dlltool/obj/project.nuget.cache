@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YzCNwLZz0XRSaPV0aWBTJaIPr3bjNP38ZV+Igg8/2R806ku0n15NPxjBjBbq+23LY2qAI6xn7f1sXAXOucgg+Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\k\\Documents\\GitHub\\dlltool\\dlltool\\dlltool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k\\.nuget\\packages\\bleak\\3.1.1\\bleak.3.1.1.nupkg.sha512",
+    "C:\\Users\\k\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\k\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\k\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\k\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
